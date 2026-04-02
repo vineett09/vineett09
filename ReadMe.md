@@ -1,5 +1,16 @@
 # 💫 About Me:
-👋 Hey there! I'm Vineet Kumar<br>I'm a full-stack developer passionate about building innovative applications with real-time collaboration, AI integration, and smart automation.<br><br>🚀 Projects I’ve Built<br>🖥️ Real-Time Code Collaboration Platform – A multi-user coding platform using WebSockets.<br>🗺️ AI-Integrated Interactive Roadmap Platform - A dynamic project or learning roadmap builder that uses AI to personalize and adapt plans based on user goals and progress. <br>📝 Smart Notes App – Desktop app with AI-powered note generation, scheduling, reminders, and sticky notes to attach them to targeted windows applications.<br>💡 Tech Stack<br>Frontend: React, Redux, Javascript, ElectronJS, Typescript | Backend: Node.js, Express, MongoDB, Socket.io<br><br>📫 Let's Connect!<br>🚀 Open to collaborations and new challenges!
+Full Stack Developer (MERN) with hands-on experience building real-time, payment-driven, and AI-integrated web applications.
+
+I work primarily with Node.js, Express, MongoDB, React, and Next.js, and have production experience integrating Razorpay payment flows, building cron-driven background jobs, and designing REST APIs for scalable backend systems.
+
+Currently working as a Backend Developer Intern at Solar Capital, where I’ve contributed to payment workflows, automated reward settlements, transaction reconciliation, and real-time investment dashboards.
+
+Key areas I focus on:
+• Backend & API design (Node.js, Express)
+• Real-time systems (WebSockets)
+• Payment integrations
+• Authentication & authorization
+• Background jobs & system reliability
 
 
 ## 🌐 Socials:
